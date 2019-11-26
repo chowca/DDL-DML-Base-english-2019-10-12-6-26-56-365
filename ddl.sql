@@ -1,6 +1,6 @@
 -- **Database level:**
 -- Display all the database
-show databses;
+show databases;
 
 -- Enter a certain database
 use dbname;
